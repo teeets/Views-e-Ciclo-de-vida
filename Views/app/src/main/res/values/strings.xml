@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="estou_aprendendo_android">Estou aprendendo Android ?</string>
+    <string name="medio">medio</string>
+    <string name="facil">facil</string>
+    <string name="dificil">dificil</string>
+    <string name="salvar">Salvar</string>
+    <string name="facil_selecionado">Facil Selecionado</string>
+    <string name="medio_selecionado">Médio Selecionado</string>
+    <string name="dificil_selecionado">Dificil Selecionado</string>
+    <string name="nada_selecionado">nada foi selecionado</string>
+</resources>
